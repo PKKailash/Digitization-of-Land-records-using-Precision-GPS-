@@ -1,0 +1,2 @@
+# Digitization-of-Land-records-using-Precision-GPS-
+The Objective of this Project is to digitize land records using precise GPS coordinates and to provide a single window system to handle land records, including maintenance and updating of textual records, maps, survey and settlement operation and registration of immovable property. This Project will also Store the whole ownership ontology in a Blockchain system to make sure the Properties are secure and tamper-proof.
